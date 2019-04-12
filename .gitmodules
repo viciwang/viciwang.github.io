@@ -1,0 +1,4 @@
+[submodule "themes/hexo-theme-snippet"]
+	path = themes/hexo-theme-snippet
+	url = git@github.com:viciwang/hexo-theme-snippet.git
+	branch = master
