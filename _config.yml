@@ -78,5 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: <repository url>
-  branch: [published]
+  repo: git@github.com:viciwang/viciwang.github.io.git
+  branch: published
